@@ -239,11 +239,11 @@ database-pets:
 #    name: expression_counter_db
 #    host: ds049651.mongolab.com
 #    port: 49651
-    username: testing_user
-    password: testing_user
-    name: resumeCruncher
-    host: localhost
-    port: 27017
+    username: ashish
+    password: ashu1234
+    name: Green
+    host: Red
+    port: Blue
 
 ---
 spring:
